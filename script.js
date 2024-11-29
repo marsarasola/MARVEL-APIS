@@ -1,6 +1,6 @@
 const CHARACTERS = []
 
-const url = 'http://gateway.marvel.com/v1/public/characters?ts=1&apikey=d80711ba6c0f0213843cd530b7f62f73&hash=ecf6a28795aafa3a652fea7ef5b667d8'
+const url = 'https://gateway.marvel.com/v1/public/characters?ts=1&apikey=d80711ba6c0f0213843cd530b7f62f73&hash=ecf6a28795aafa3a652fea7ef5b667d8'
 const key = '?ts=1&apikey=d80711ba6c0f0213843cd530b7f62f73&hash=ecf6a28795aafa3a652fea7ef5b667d8'
 
 const body = document.querySelector('body')
